@@ -1,6 +1,7 @@
 # Computer Vision Using Tensorflow
 #### Summer Project offered by IITK Consulting Group
 #### Project mentors: Aryan Vora, Mandar Wayal
+#### Project Duration: May 2021 - July 2021
 
 ## Overview
 The project focueses on how to use Tensorflow 2.0 in the field of Computer Vision and Deep Learning.
