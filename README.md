@@ -25,3 +25,6 @@ The MNIST database is a large database of handwritten digits that is commonly us
 
 ## Assignment 4
 Final Task; predict whether a person is wearing a mask correctly, incorrectly or not wearing a mask at all
+
+Link to dataset: https://drive.google.com/drive/folders/1tfRgpTuCwESkfItd5BZmdL9yLCm2qRl-?usp=sharing
+
