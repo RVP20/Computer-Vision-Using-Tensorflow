@@ -22,3 +22,6 @@ https://colab.research.google.com/drive/1asGptVW1kSOD-sm44G3PJr-Ad9lPwQFR?usp=sh
 
 In this Assignment, we will use CNN to classify digits in the MNIST database.
 The MNIST database is a large database of handwritten digits that is commonly used for training various image processing systems.
+
+## Assignment 4
+Final Task; predict whether a person is wearing a mask correctly, incorrectly or not wearing a mask at all
